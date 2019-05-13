@@ -27,8 +27,10 @@
 - Quản lý các khóa học, bài học...
 
  ### :clipboard: Tài liệu kỹ thuật
+[https://github.com/quangnguyen99/INT2208-8-2019/nhom-9/Tài liệu kỹ thuật nhóm 9.pdf](https://github.com/quangnguyen99/INT2208-8-2019/blob/master/nhom-9/T%C3%A0i%20li%E1%BB%87u%20k%C4%A9%20thu%E1%BA%ADt%20nh%C3%B3m%209.pdf)
 
- ### :vhs: [Video demo và hướng dẫn sử dụng](https://youtu.be/SuxDkJYifUA)
+ ### :vhs: Video demo và hướng dẫn sử dụng
+ https://youtu.be/SuxDkJYifUA
  
  ### :books: Tài liệu tham khảo
  #### :small_orange_diamond: Sách: 
